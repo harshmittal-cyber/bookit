@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ad75a732.chunk.css",
-    "main.js": "/static/js/main.a59c3878.chunk.js",
-    "main.js.map": "/static/js/main.a59c3878.chunk.js.map",
+    "main.js": "/static/js/main.26cf3fb7.chunk.js",
+    "main.js.map": "/static/js/main.26cf3fb7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e1e21248.js",
     "runtime-main.js.map": "/static/js/runtime-main.e1e21248.js.map",
     "static/css/2.620e5822.chunk.css": "/static/css/2.620e5822.chunk.css",
-    "static/js/2.0d9e6946.chunk.js": "/static/js/2.0d9e6946.chunk.js",
-    "static/js/2.0d9e6946.chunk.js.map": "/static/js/2.0d9e6946.chunk.js.map",
+    "static/js/2.eca59fdc.chunk.js": "/static/js/2.eca59fdc.chunk.js",
+    "static/js/2.eca59fdc.chunk.js.map": "/static/js/2.eca59fdc.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.620e5822.chunk.css.map": "/static/css/2.620e5822.chunk.css.map",
     "static/css/main.ad75a732.chunk.css.map": "/static/css/main.ad75a732.chunk.css.map",
-    "static/js/2.0d9e6946.chunk.js.LICENSE.txt": "/static/js/2.0d9e6946.chunk.js.LICENSE.txt",
+    "static/js/2.eca59fdc.chunk.js.LICENSE.txt": "/static/js/2.eca59fdc.chunk.js.LICENSE.txt",
     "static/media/AgraImage1.550fe49d.jpg": "/static/media/AgraImage1.550fe49d.jpg",
     "static/media/AgraImage2.2c455ed6.jpg": "/static/media/AgraImage2.2c455ed6.jpg",
     "static/media/AgraImage6.8e81ff44.jpg": "/static/media/AgraImage6.8e81ff44.jpg",
@@ -67,8 +67,8 @@
   "entrypoints": [
     "static/js/runtime-main.e1e21248.js",
     "static/css/2.620e5822.chunk.css",
-    "static/js/2.0d9e6946.chunk.js",
+    "static/js/2.eca59fdc.chunk.js",
     "static/css/main.ad75a732.chunk.css",
-    "static/js/main.a59c3878.chunk.js"
+    "static/js/main.26cf3fb7.chunk.js"
   ]
 }
